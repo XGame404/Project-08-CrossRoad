@@ -1,0 +1,19 @@
+# ninja log v5
+79	1905	7641921512667382	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	b56f548fe11c65a9
+15	1486	7641921507836249	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	1ac46d34abb6be9c
+30	1573	7641921509110252	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	7867e9bfa28b7cf8
+1	2176	7641921515426784	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	ad25a9d99094cdca
+87	1739	7641921510907115	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	59b2a453bf1e96a3
+53	1863	7641921512108937	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	8701bb8320dbc94
+66	2102	7641921514481009	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	f59472b4de967ddc
+7	2397	7641921517566972	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	84d80ac1d6951df5
+2397	2601	7641921519740579	E:/Unity Related/Unity Project/Project-07-Daggerous-main/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4vc2w6z6/obj/arm64-v8a/libgame.so	eb41e07ca4844ffa
+4	762	7641924302907487	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	8701bb8320dbc94
+12	775	7641924304423454	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	ad25a9d99094cdca
+17	775	7641924304423454	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	1ac46d34abb6be9c
+36	776	7641924304423454	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	b56f548fe11c65a9
+31	777	7641924304423454	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	59b2a453bf1e96a3
+26	777	7641924304423454	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	7867e9bfa28b7cf8
+21	853	7641924305295590	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	f59472b4de967ddc
+8	988	7641924306582966	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	84d80ac1d6951df5
+989	1071	7641924307505237	E:/Unity Related/Unity Project/Project-07-Daggerous-main/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4vc2w6z6/obj/arm64-v8a/libgame.so	eb41e07ca4844ffa

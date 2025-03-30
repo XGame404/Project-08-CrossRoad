@@ -1,0 +1,10 @@
+# ninja log v5
+31	2221	7641919252762346	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a13aa99ca44e099e
+8	2229	7641919253038439	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	aed0e8aeea9025e8
+50	2269	7641919253244694	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	1b58eb0697bcf92d
+62	2373	7641919254475696	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	63e5b5314f1f781a
+42	2390	7641919254672266	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	78d9db8dee93b4fa
+1	2452	7641919255318962	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	d9be38f633c79ae0
+36	2592	7641919256752122	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	3471db74f6fe6c07
+21	2717	7641919258002611	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	e90c286dae272b58
+2718	3215	7641919261183826	E:/Unity Related/Unity Project/Project-07-Daggerous-main/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4wx37184/obj/arm64-v8a/libgame.so	c97a60ee747d6f92
